@@ -1,0 +1,5 @@
+Git Status ##show the status of thee staging area and pending changes
+Git add <path + file name>
+Git rm <path + file name> ## if you have the wrong file on the staging area, this will remove it
+git commit -m "testing commit on command prompt" ## commit the changes and have the stating area ready for PUSH
+git push ## push the changes to the repository
